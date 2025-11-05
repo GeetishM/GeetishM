@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geetish Mahato</h1>
 <h3 align="center">Machine Learning Developer with ex- pertise in generative AI and data an- alytics, skilled in deploying models into cross-platform mobile applica- tions using Flutter. A dedicated, col- laborative problem-solver focused on creating impactful, data-driven solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geetishm&label=Profile%20views&color=0e75b6&style=flat" alt="geetishm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetishm" alt="geetishm" /></a> </p>
-
 - 🔭 I’m currently working on [Aurora (RAG Chatbot)](https://github.com/GeetishM/Aurora)
 
 - 🌱 I’m currently learning **RAG, Langchain**
