@@ -65,7 +65,7 @@ class GeetishMahato:
     <td width="50%" valign="top">
       <h3 align="center">🎭 EmotionXtract</h3>
       <p align="center">
-        <a href="https://github.com/GeetishM">
+        <a href="https://github.com/anamikadey099/EmotionXtract">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -89,7 +89,7 @@ class GeetishMahato:
     <td width="50%" valign="top">
       <h3 align="center">📊 Customer Trends Analysis</h3>
       <p align="center">
-        <a href="https://github.com/GeetishM">
+        <a href="https://github.com/GeetishM/Data_Analytic_projects">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -110,7 +110,7 @@ class GeetishMahato:
     <td width="50%" valign="top">
       <h3 align="center">🧘 MindSarthi</h3>
       <p align="center">
-        <a href="https://github.com/GeetishM">
+        <a href="https://github.com/GeetishM/MindSarthi">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
