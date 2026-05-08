@@ -216,10 +216,10 @@ class GeetishMahato:
 
 | 🥇 Achievement | 🗓️ Date |
 |---|---|
-| 🏆 **BitShine Hackathon — 1st Place** | Feb 2025 |
-| 🥇 **IEEE ESG Symposium — 1st Place** | Oct 2024 |
-| ⭐ **Hacksagon — Top Performing Team** | June 2025 |
-| 🎤 **IEEE Leadership in AI — Best Presentation** | Oct 2024 |
+| 🏆 **BitShine Hackathon - 1st Place** | Feb 2025 |
+| 🥇 **IEEE ESG Symposium - 1st Place** | Oct 2024 |
+| ⭐ **Hacksagon - Top Performing Team** | June 2025 |
+| 🎤 **IEEE Leadership in AI - Best Presentation** | Oct 2024 |
 
 </div>
 
