@@ -40,7 +40,7 @@ class GeetishMahato:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌌 Aurora — RAG Chatbot</h3>
+      <h3 align="center">🌌 Aurora - RAG Chatbot</h3>
       <p align="center">
         <a href="https://github.com/GeetishM/Aurora">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -141,7 +141,7 @@ class GeetishMahato:
     <td>🏢 <strong>IEEE CS Bangalore Chapter</strong></td>
     <td>AI/ML Intern</td>
     <td>Apr 2025 – Sept 2025</td>
-    <td>Built <strong>ResQVision</strong> — YOLOv8 accident detection (91% mAP, 0.2s latency)</td>
+    <td>Built <strong>ResQVision</strong> - YOLOv8 accident detection (91% mAP, 0.2s latency)</td>
   </tr>
   <tr>
     <td>🏢 <strong>Bhilai Steel Plant</strong></td>
@@ -227,12 +227,12 @@ class GeetishMahato:
 
 ## 🌟 Leadership & Community
 
-- 👨‍💼 **Chairperson**, IEEE Student Branch — managed 30+ members, achieved **200%+ retention**
-- 🌍 **Project Coordinator**, IEEE SIGHT — social innovation projects
+- 👨‍💼 **Chairperson**, IEEE Student Branch - managed 30+ members, achieved **200%+ retention**
+- 🌍 **Project Coordinator**, IEEE SIGHT - social innovation projects
 - 💻 **Webmaster**, IEEE WIE
 - 🎓 **Vice-President**, CSE Student Association
 - 🚀 **Spearheaded** STEAM SPARK outreach program
-- ❤️ **Volunteer**, NGO Golden Empathy Foundation — inclusive education
+- ❤️ **Volunteer**, NGO Golden Empathy Foundation - inclusive education
 
 ---
 
